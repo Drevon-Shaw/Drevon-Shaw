@@ -77,7 +77,8 @@ Topics:
 
 - Land a Help Desk / IT Support role  
 - Grow into Systems Administration or IAM  
-- Build long-term expertise in Identity & Access Management  
+- Build long-term expertise in Identity & Access Management
+- In the AI era, every system becomes an identity problem. AI agents act as autonomous users, so IAM becomes the control plane that defines what they can access, how they behave, and what data they can touch. You can’t secure what you don’t control, and you can’t control what you haven’t identified
 
 ---
 
