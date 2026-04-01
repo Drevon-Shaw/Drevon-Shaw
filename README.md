@@ -2,7 +2,7 @@
 
 # Drevon Shaw
 
-IT Support professional based in Mississauga, ON  
+IT Support professional based in Toronto, ON
 Focused on building hands-on experience in Active Directory, Microsoft 365, and end-user support through real-world labs and documentation.
 
 ---
