@@ -86,8 +86,7 @@ Security+ (May 2026) → CCNA (Summer 2026) → Palo Alto / Network Security
 ---
 
 ## 🤝 Connect
-
-- LinkedIn:https://www.linkedin.com/in/drevon-s-212b78219/
+- https://www.linkedin.com/in/drevon-shaw/
 - GitHub: https://github.com/Drevon-Shaw  
 
 ---
