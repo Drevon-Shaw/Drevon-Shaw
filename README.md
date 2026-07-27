@@ -1,94 +1,40 @@
-## Hi there 👋
 
-# Drevon Shaw
+Hi there, I'm Drevon Shaw
 
-IT Support professional based in Toronto, ON
-Focused on building hands-on experience in Active Directory, Microsoft 365, and end-user support through real-world labs and documentation.
+IT Support candidate based in Toronto, ON. I build and document hands-on labs covering Active Directory, Microsoft 365, Azure AD, PowerShell automation, and networking replicating real Help Desk workflows without waiting for someone to give me a seat first.
 
----
+What I'm Building
 
-## 🚀 What I'm Building
+Active Directory & Windows Server lab — user management, Group Policy, GPO troubleshooting, SOP documentation
+Microsoft 365 & Entra ID lab — user provisioning, MFA, Conditional Access, NIST SP 800-63B password policy
+PowerShell automation — bulk onboarding, offboarding, group assignments from CSV input
+Physical Cisco networking lab — switches, routers, structured cabling, LAN diagnostics
+SOC lab — endpoint security, phishing triage, log analysis
 
-- Active Directory lab (user management, group policy, access control)
-- Microsoft 365 & Entra ID lab (user provisioning, MFA, conditional access)
-- PowerShell automation (onboarding/offboarding workflows)
-- IT support workflows (ticketing, troubleshooting, documentation)
+Skills
 
----
+Identity & Directory: Active Directory, Azure AD/Entra ID, Group Policy, MFA, Conditional Access
 
-## 🧠 Skills
+OS & Platforms: Windows 10/11, Windows Server 2019/2022, Linux (Ubuntu, Kali), macOS
 
-**Systems & Support**
-Windows 10/11 | Windows Server  
-Active Directory | Group Policy  
-Microsoft 365 | Entra ID  
+Networking: TCP/IP, DNS, DHCP, VPN, LAN troubleshooting, CLI tools, physical Cisco lab
 
-**IT Operations**
-User provisioning | Password resets | Account lockouts  
-Triage | Incident management | ITIL fundamentals  
+Scripting & Tools: PowerShell, Bash, VMware, ServiceNow concepts, incident documentation
 
-**Tools**
-PowerShell | VMware | Linux (Ubuntu)  
-Remote support (Quick Assist, TeamViewer)
+Projects
 
----
+Active Directory Support Lab → github.com/Drevon-Shaw/Active-Directory-Support-Lab-Windows-AD-Hands-On-
 
-## 📂 Projects
+PowerShell Automation Lab → github.com/Drevon-Shaw/AD-PowerShell-Automation
 
-### 🔹 Active Directory Administration Lab
-- Managed users, groups, and OUs in a domain environment  
-- Applied Group Policy and access controls  
-- Simulated real-world help desk tasks  
+Writing
 
-👉 https://github.com/Drevon-Shaw/Active-Directory-Support-Lab-Windows-AD-Hands-On-
+I document everything. Lab walkthroughs, troubleshooting breakdowns, and IT concepts at medium.com/@shawdrevon
 
----
+Goals
 
-### 🔹 PowerShell Automation Lab
-- Automated onboarding/offboarding using CSV scripts  
-- Managed group memberships and password resets  
-- Replicated service desk workflows  
+Land a Help Desk or IT Support role in the GTA (2026). CCNA by August 2026. Then network security engineering via Palo Alto, cloud security. 
 
-👉 https://github.com/Drevon-Shaw/AD-PowerShell-Automation
+Connect
 
----
-
-### 🔹 Microsoft 365 & Entra ID Lab 
-- Managing cloud users, licenses, and groups  
-- Configuring MFA and Conditional Access  
-- Building identity and access management skills
-
-👉 https://github.com/Drevon-Shaw?tab=repositories
-
----
-
-## ✍️ Writing
-
-- https://medium.com/@shawdrevon  
-
-Topics:
-- Active Directory fundamentals  
-- IT support workflows  
-- Identity & access management  
-
----
-
-## 🎯 Goals
-
-* Land an entry-level Help Desk or Data Center Tech role (2026)
-* Earn CCNA, then specialize in network and firewall security
-* Long-term: Cloud and AI Security Engineering — designing network 
-  controls for AI agents in enterprise
-
-## Current Focus
-
-Security+ (May 2026) → CCNA (Summer 2026) → Palo Alto / Network Security
----
-
-## 🤝 Connect
-- https://www.linkedin.com/in/drevon-shaw/
-- GitHub: https://github.com/Drevon-Shaw  
-
----
-
-> Consistency builds competence.
+linkedin.com/in/drevon-shaw
