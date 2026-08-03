@@ -63,6 +63,7 @@ I document everything — lab walkthroughs, troubleshooting breakdowns, and IT c
 
 ## 🎯 Goals
 
+Currently focused on landing a Help Desk or IT Support role in the GTA and earning my Cisco CCNA. Long-term, I'm building toward network and security engineering, with interests in Palo Alto firewall technology and cloud security.
 ---
 
 ## 🤝 Connect
