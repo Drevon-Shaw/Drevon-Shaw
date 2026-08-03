@@ -1,6 +1,6 @@
 # Hi, I'm Drevon Shaw 👋
 
-### IT Support Candidate | Toronto, ON
+### IT Professional | Toronto, ON
 
 I build and document hands-on labs covering Active Directory, Microsoft 365, Azure AD, PowerShell automation, and networking — replicating real Help Desk workflows without waiting for someone to give me a seat first.
 
